@@ -12,7 +12,8 @@
         {"id": "InGameHelp", "minVersion": "1.0.0"},
         {"id": "Durability", "minVersion": "1.0.0"},
         {"id": "MultiBlock", "minVersion": "1.0.0"},
-        {"id": "PotentialEnergyDevices", "minVersion": "1.0.0"}
+        {"id": "PotentialEnergyDevices", "minVersion": "1.0.0"},
+        {"id": "ItemPipes", "minVersion" : "0.1.2"}
     ],
     "isAugmentation": true
 }

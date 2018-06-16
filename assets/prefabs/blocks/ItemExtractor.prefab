@@ -3,18 +3,11 @@
    "InteractionScreen": {
      "screen": "core:containerScreen"
    },
-  "Inventory": {
-    "privateToOwner": false,
-    "itemSlots": [
-      0
-    ]
-  },
   "DropBlockInventory": {},
-  "PullInventoryInDirection": {
-    "direction": "FORWARD"
+  "ItemPipes:PipeConnection": {
+       sides: ["TOP","LEFT","RIGHT","BOTTOM","BACK"]
   },
-  "PushInventoryInDirection": {
-    "direction": "BACKWARD"
+  "Extractor":{
   },
   "Network": {
   },
